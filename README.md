@@ -1,6 +1,6 @@
 # Neural Data Analysis Codes
 
-> The codes below can be used to reproduce figures and data analysis from the paper titled "Constructing 2D Maps of Human Spinal Cord Activity and Isolating the Functional Midline with High-Density Microelectrode Arrays". It contains the following files:
+The codes below can be used to reproduce figures and data analysis from the paper titled "Constructing 2D Maps of Human Spinal Cord Activity and Isolating the Functional Midline with High-Density Microelectrode Arrays". It contains the following files:
 + data_segmenting 
 + data_filtering 
 + data_averaging 
