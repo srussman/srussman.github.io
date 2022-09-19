@@ -1,0 +1,9 @@
+# Description of how to use codes in this folder
+
+Use codes in the following order:
+1. Data filtering
+2. Data segmenting
+3. Data trials
+4. Data averaging
+
+You need to have the entire folder with supplementary codes downloaded to run without error.
