@@ -7,7 +7,7 @@ The code below can be used to reproduce figures and data analysis from the paper
 + [phase gradient analysis](https://github.com/srussman/srussman.github.io/tree/main/paper%20figures/wavefront%20plots)
 + [multidiameter analysis](https://github.com/srussman/srussman.github.io/tree/main/paper%20figures)
 + [clinical data analysis](https://github.com/srussman/srussman.github.io/tree/main/paper%20figures/clinical_data)
-+ statistical analysis
++ [statistical analysis](https://github.com/srussman/srussman.github.io/blob/main/neuromonitoring_stats_multiple_tests_final.py)
 
 The raw data for this project can be found at: https://dabi.loni.usc.edu/dsi/SMIZGIPQ0D5H
 
