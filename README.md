@@ -9,6 +9,8 @@ The code below can be used to reproduce figures and data analysis from the paper
 + clinical data analysis
 + statistical analysis
 
+The raw data for this project can be found at: https://dabi.loni.usc.edu/dsi/SMIZGIPQ0D5H
+
 # SpineWrap Data Analysis Code
 The code below can be used to reproduce figures and data analysis from the paper titled "The Conformal, High-Density SpineWrap Microelectrode Array Delivers Focal Stimulation for Selective Muscle Recruitment". It contains the following analysis steps:
 
