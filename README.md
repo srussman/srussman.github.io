@@ -5,7 +5,7 @@ The code below can be used to reproduce figures and data analysis from the paper
 + [data averaging](https://github.com/srussman/srussman.github.io/tree/main/data%20averaging)
 + [heatmap plots](https://github.com/srussman/srussman.github.io/tree/main/paper%20figures)
 + [phase gradient analysis](https://github.com/srussman/srussman.github.io/tree/main/paper%20figures/wavefront%20plots)
-+ [multidiameter analysis] (https://github.com/srussman/srussman.github.io/tree/main/paper%20figures)
++ [multidiameter analysis](https://github.com/srussman/srussman.github.io/tree/main/paper%20figures)
 + clinical data analysis
 + statistical analysis
 
